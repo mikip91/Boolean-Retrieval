@@ -1,0 +1,1 @@
+java -jar mikipadh_project2.jar D:\MS\1stSem\IR\CSE535_Project2\resources\inputFiles output.txt D:\MS\1stSem\IR\CSE535_Project2\resources\indexedFiles\input.txt

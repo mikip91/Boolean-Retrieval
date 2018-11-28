@@ -1,0 +1,23 @@
+GetPostings
+pancrea
+Postings list: 5044 5294 5402 5690 6022 6174 6568
+TaatAnd
+pancrea 
+Results: Single list Found
+Number of documents in results: 7
+Number of comparisons: 0
+TaatOr
+pancrea 
+Results: 5044 5294 5402 5690 6022 6174 6568
+Number of documents in results: 7
+Number of comparisons: 0
+DaatAnd
+pancrea 
+Results: Single list Found
+Number of documents in results : 7
+Number of comparisons: 14
+DaatOr
+pancrea 
+Results: 5044 5294 5402 5690 6022 6174 6568
+Number of documents in results : 7
+Number of comparisons: 7
